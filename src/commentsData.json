@@ -1,0 +1,118 @@
+{
+  "comments": [
+    {
+      "id": "a96f27ee-11af-4561-82fb-3f041efb5031",
+      "title": "Why React is the best?",
+      "content": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptatum eaque itaque sit tempora officiis, quisquam atque? Impedit dignissimos error laudantium!",
+      "username": "alpha",
+      "likes": 123,
+      "dislikes": 23,
+      "replies": [
+        {
+          "id": "02301316-55f7-44e7-91a5-3f57eb89dd4b",
+          "title": "React provides a great developer experience",
+          "content": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptatum eaque itaque sit tempora officiis, quisquam atque? Impedit dignissimos error laudantium!",
+          "username": "beta",
+          "likes": 123,
+          "dislikes": 23,
+          "replies": [
+            {
+              "id": "b7b53f9e-2164-4d2e-bf09-76b9d33c85e3",
+              "title": "My favorite part of React is the component model",
+              "content": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptatum eaque itaque sit tempora officiis, quisquam atque? Impedit dignissimos error laudantium!",
+              "username": "gamma",
+              "likes": 123,
+              "dislikes": 23,
+              "replies": []
+            },
+            {
+              "id": "fb9cdd92-dae0-4a3e-b49c-0624e5c69a9a",
+              "title": "Angular is better",
+              "content": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptatum eaque itaque sit tempora officiis, quisquam atque? Impedit dignissimos error laudantium!",
+              "username": "delta",
+              "likes": 123,
+              "dislikes": 23,
+              "replies": [
+                {
+                  "id": "31746ecf-1a05-4980-bc32-d028ad1dbf66",
+                  "title": "Angular is not better",
+                  "content": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptatum eaque itaque sit tempora officiis, quisquam atque? Impedit dignissimos error laudantium!",
+                  "username": "epsilon",
+                  "likes": 123,
+                  "dislikes": 23,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2d42e288-bf34-4d46-97c9-6e30cf49b4a3",
+          "title": "Next.js is the best way to use React",
+          "content": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptatum eaque itaque sit tempora officiis, quisquam atque? Impedit dignissimos error laudantium!",
+          "username": "zeta",
+          "likes": 123,
+          "dislikes": 23,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "b6ddadf4-998f-4b74-ba3c-40b7e41de7f6",
+      "title": "Is tailwind the best css framework?",
+      "content": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptatum eaque itaque sit tempora officiis, quisquam atque? Impedit dignissimos error laudantium!",
+      "username": "appu",
+      "likes": 50,
+      "dislikes": 5,
+      "replies": [
+        {
+          "id": "2fd94412-424e-4859-b3a6-6c8f159a037e",
+          "title": "Yup, it's the best",
+          "content": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptatum eaque itaque sit tempora officiis, quisquam atque? Impedit dignissimos error laudantium!",
+          "username": "mark",
+          "likes": 12,
+          "dislikes": 3,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "b6ddadf4-998f-4b74-ba3c-40b7e41de7f6",
+      "title": "Nodejs is the best backend",
+      "content": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptatum eaque itaque sit tempora officiis, quisquam atque? Impedit dignissimos error laudantium!",
+      "username": "zed",
+      "likes": 50,
+      "dislikes": 5,
+      "replies": [
+        {
+          "id": "2fd94412-424e-4859-b3a6-6c8f159a037e",
+          "title": "Dotnet is better",
+          "content": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptatum eaque itaque sit tempora officiis, quisquam atque? Impedit dignissimos error laudantium!",
+          "username": "queen",
+          "likes": 12,
+          "dislikes": 3,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "b6ddadf4-998f-4b74-ba3c-40b7e41de7f6",
+      "title": "Twitteerv Vs Threads",
+      "content": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptatum eaque itaque sit tempora officiis, quisquam atque? Impedit dignissimos error laudantium!",
+      "username": "superman",
+      "likes": 50,
+      "dislikes": 5,
+      "replies": [
+        {
+          "id": "2fd94412-424e-4859-b3a6-6c8f159a037e",
+          "title": "I love threads",
+          "content": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptatum eaque itaque sit tempora officiis, quisquam atque? Impedit dignissimos error laudantium!",
+          "username": "batman",
+          "likes": 12,
+          "dislikes": 3,
+          "replies": []
+        }
+      ]
+    }
+  ]
+}
