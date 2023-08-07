@@ -2,6 +2,12 @@
 
 ThreadedReplies is a React application visualizing a threaded comment system.
 
+## Screenshot
+
+<img src="https://github.com/sauravhathi/ThreadedReplies/assets/61316762/a5e3ffba-f3b9-42fd-8fc0-9da6086e61e9" alt="sc1" style="width: 70%">
+
+<img src="https://github.com/sauravhathi/ThreadedReplies/assets/61316762/8697eb0d-e9e4-4d4f-95bd-b3d6d8bd29ad" alt="sc1" style="width: 70%">
+
 ## Installation and Setup
 
 1. Clone the repository to your local machine.
